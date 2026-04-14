@@ -1,6 +1,6 @@
 # TUGAS_KELOMPOK
 # Sistem Manajemen Kebun Binatang
-# Nama Kelompok 5 
+## Nama Kelompok 5 
 - 065123051_Muhamad Jamaludin
 - 065123048_Muhamad Syahrul rizki
 - 065122224_Kery Irawan
