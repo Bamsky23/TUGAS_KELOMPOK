@@ -4,7 +4,7 @@
 - 065123051_Muhamad Jamaludin
 - 065123048_Muhamad Syahrul rizki
 - 065122224_Kery Irawan
-- 065122224_Fathur Rizki Ramadhan
+- 065122234_Fathur Rizki Ramadhan
 ## Fitur
 - CRUD Data Hewan
 - Database MySQL
